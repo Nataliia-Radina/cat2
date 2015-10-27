@@ -1,0 +1,67 @@
+
+h1 {
+    	color: black;
+    	text-align: left;
+    	font-size: 20px;
+    	font-family: helvetica;
+}
+
+p {
+    	font-family: "Helvetica";
+    	font-size: 14px;
+
+}
+
+ul.nav {
+    	list-style-type: none;
+    	background-color: black;
+		margin: 20px;	
+}
+    
+ul.nav	li{
+    	display: inline; 	
+    	background-color: white;
+    	border: 1px solid black;
+    	margin: 10px 10px 10px 10px;
+    	padding: 10px 10px 10px 10px;
+}
+
+a:link {
+    	color: black;
+    	text-decoration: none;
+}
+
+a:visited {
+    	color: #00FF00;
+}
+
+a:hover {
+	    text-decoration: none;
+	    color: yellow;
+}
+
+a:active {
+	    color: #0000FF;
+}
+
+
+a.my-button {
+		margin: 10px 5px 5px 10px;
+		padding: 10px 12px;
+		border: 1px solid black;
+		color: black;
+		background-color: white;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 2px;
+}
+
+a.my-button:hover{
+		padding: 30px;
+		margin: 2px 0 0 2px;
+}
+
+
+
+
+
